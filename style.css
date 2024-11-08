@@ -1,0 +1,9 @@
+div.offcanvas.offcanvas-end {
+  width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+  div.offcanvas.offcanvas-end {
+    width: 50%;
+  }
+}
